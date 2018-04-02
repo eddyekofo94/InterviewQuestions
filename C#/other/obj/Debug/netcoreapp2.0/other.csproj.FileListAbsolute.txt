@@ -1,0 +1,10 @@
+/Users/eddyekofo/Coding/Languages/C#/other/obj/Debug/netcoreapp2.0/other.csproj.CoreCompileInputs.cache
+/Users/eddyekofo/Coding/Languages/C#/other/obj/Debug/netcoreapp2.0/other.AssemblyInfoInputs.cache
+/Users/eddyekofo/Coding/Languages/C#/other/obj/Debug/netcoreapp2.0/other.AssemblyInfo.cs
+/Users/eddyekofo/Coding/Languages/C#/other/bin/Debug/netcoreapp2.0/other.deps.json
+/Users/eddyekofo/Coding/Languages/C#/other/bin/Debug/netcoreapp2.0/other.runtimeconfig.json
+/Users/eddyekofo/Coding/Languages/C#/other/bin/Debug/netcoreapp2.0/other.runtimeconfig.dev.json
+/Users/eddyekofo/Coding/Languages/C#/other/bin/Debug/netcoreapp2.0/other.dll
+/Users/eddyekofo/Coding/Languages/C#/other/bin/Debug/netcoreapp2.0/other.pdb
+/Users/eddyekofo/Coding/Languages/C#/other/obj/Debug/netcoreapp2.0/other.dll
+/Users/eddyekofo/Coding/Languages/C#/other/obj/Debug/netcoreapp2.0/other.pdb

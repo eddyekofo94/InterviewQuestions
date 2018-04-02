@@ -1,0 +1,10 @@
+/Users/eddyekofo/Coding/Languages/C#/interview/bin/Debug/netcoreapp2.0/interview.deps.json
+/Users/eddyekofo/Coding/Languages/C#/interview/bin/Debug/netcoreapp2.0/interview.runtimeconfig.json
+/Users/eddyekofo/Coding/Languages/C#/interview/bin/Debug/netcoreapp2.0/interview.runtimeconfig.dev.json
+/Users/eddyekofo/Coding/Languages/C#/interview/bin/Debug/netcoreapp2.0/interview.dll
+/Users/eddyekofo/Coding/Languages/C#/interview/bin/Debug/netcoreapp2.0/interview.pdb
+/Users/eddyekofo/Coding/Languages/C#/interview/obj/Debug/netcoreapp2.0/interview.csproj.CoreCompileInputs.cache
+/Users/eddyekofo/Coding/Languages/C#/interview/obj/Debug/netcoreapp2.0/interview.AssemblyInfoInputs.cache
+/Users/eddyekofo/Coding/Languages/C#/interview/obj/Debug/netcoreapp2.0/interview.AssemblyInfo.cs
+/Users/eddyekofo/Coding/Languages/C#/interview/obj/Debug/netcoreapp2.0/interview.dll
+/Users/eddyekofo/Coding/Languages/C#/interview/obj/Debug/netcoreapp2.0/interview.pdb
